@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/RedHatInsights/frontend-starter-app.svg?branch=master)](https://travis-ci.org/RedHatInsights/frontend-starter-app)
 
-# frontend-starter-app
+# sed-frontend
 
-React.js starter app for Red Hat Insights products that includes Patternfly 4 and shared cloud.redhat.com utilities.
+Repository for Service Enablement Dashboard frontend.
 
 ## Getting Started
 
